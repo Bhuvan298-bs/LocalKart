@@ -1,0 +1,6 @@
+{
+  "name": "LocalKart",
+  "description": "Local commerce marketplace connecting neighbourhood grocery stores, kirana shops, and bakeries with nearby customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
